@@ -1,0 +1,3 @@
+name: HungerShit
+main: com.mukunda.hungershit.HungerShit
+version: ${version}
